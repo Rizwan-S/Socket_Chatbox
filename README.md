@@ -8,8 +8,8 @@ This is a chatroom implemented in python. Socket programming in python3 has been
 4. sys
 
 # Execution of the file:
-Run python3 server.py in one terminal. 
-Then run python3 client.py in different terminals on the same machine.
+1. Run python3 server.py in one terminal. 
+2. Run python3 client.py in different terminals on the same machine.
 
 # Contribute:
 Contributions, issues and feature requests are welcome!
